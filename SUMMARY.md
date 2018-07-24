@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Document Information](changelog.md)
+* [Glossary](glossary.md)
+* [Introduction](README.md)
 
