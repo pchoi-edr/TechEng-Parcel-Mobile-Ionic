@@ -1,9 +1,9 @@
 # Common Error Codes
 
 The following list represents the error codes you are most
-likely to encounter as a user of the LOS API, and what they
+likely to encounter as a user of the Parcel Mobile API, and what they
 are likely to represent within the specific context of the
-LOS API system.
+Parcel Mobile API system.
 
 This list is not exhaustive. Error codes are mapped to HTTP
 response status codes, so refer to the HTTP specification for
